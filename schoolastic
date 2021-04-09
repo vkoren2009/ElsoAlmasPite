@@ -1,0 +1,7 @@
+print("Welcome to your first fully automatic lesson,i am your teacher")
+print("Unless you listen to me, you will have serious troubles in your test.")
+name= input("What is your name?")
+if name == "": input("what is your name??!!")
+import time
+if time == 1200 : print("Now get on with detention now")
+text_1 = ("The invasion of Crete(1941) was the first time that paratroopers had been usedto a large scale and demonstrated their effectiveness. The invasion itself began on thhe 20th May, as Nazi forces met heavy resistance from Greek and other allied forces, including several civilians.")
